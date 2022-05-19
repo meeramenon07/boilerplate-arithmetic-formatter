@@ -1,5 +1,5 @@
 
-def arithmetic_arranger(problems, answer = False):
+arithmetic_arranger(problems, answer = False):
  if len(problems) > 5 :
   return "Error: Too many problems."
  top_num = []
