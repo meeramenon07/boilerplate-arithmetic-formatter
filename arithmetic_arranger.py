@@ -1,4 +1,3 @@
-
 import re
 def arithmetic_arranger(problems,solve = False):
   if(len(problems)> 5):
